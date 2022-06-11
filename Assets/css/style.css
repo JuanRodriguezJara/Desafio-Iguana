@@ -1,0 +1,105 @@
+body {
+    background: #000000;
+    font-family: "Raleway, Ligth";
+  }
+  h1 {
+    font-weight: 500;
+    font-size: 3.125em;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding-top: 0;
+    font-family: 'Raleway, Medium';
+  }
+
+  .desc-section {
+    background: #000000;
+    margin-top: 45px;
+    width: 1280px;
+    height: 268px;
+    padding-left: 50px;
+  }
+
+  .desc-section2 {
+    padding-left: 250px;
+    margin-top: 70px;
+  }
+  
+  p {
+    vertical-align: middle;
+    width: 475px;
+    /*  margin-left: 150px;*/
+    text-align: left;
+    color: #ffffff;
+    float: left;
+  }
+  .parrafo1 {
+    display: inline-block;
+    width: 475px;
+    margin-left: 150px;
+    margin-right: 250px;
+    vertical-align: middle;
+  }
+  .img-right {
+    width: 399px;
+    height: 237px;
+    vertical-align: middle;
+  }
+  .icon-section {
+    margin-top: 45px;
+    width: 100%;
+    height: 348px;
+    background: #1E1A13;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 2.5em;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 75px;
+  }
+  .colored {
+    color: #ffffff;
+  }
+  .icono {
+    display: inline-block;
+    margin-right: 237.41px;
+  }
+  h3 {
+    color: #ffffff;
+  }
+  .imagesx3 {
+    display: inline-block;
+    margin: 10px;
+  }
+  .center1 {
+    text-align: center;
+  }
+  .otraclaseizq {
+    padding-left: 250px;
+  }
+  .porpantalla {
+    width: 24%;
+  }
+  .img-iguana {
+    width: 316px;
+    height: 202px;
+  }
+  
+  .ultimo {
+    margin-top: 45px;
+    width: 100%;
+    height: 102px;
+    background: #1e1a13;
+  }
+  a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .ulp {
+    margin-top: 45px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+  }
+  
